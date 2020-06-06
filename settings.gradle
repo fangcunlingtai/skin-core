@@ -1,0 +1,3 @@
+rootProject.name='lsn9_skin'
+include ':app', ':app-skin'
+include ':skin-core'
